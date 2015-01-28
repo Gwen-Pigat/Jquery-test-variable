@@ -1,0 +1,54 @@
+body{
+	background-color: #EFEFCE;
+}
+
+h1{
+	box-shadow: 0 0 30px #24334C;
+    border: 0px black solid;
+    width: 50% ;
+    text-align: center;
+    background-color: #24334C;
+    color: #EFEFCE;
+    margin:auto;
+    border-radius: 15px;
+    padding: 1%;
+}
+
+.test ,.btn1{
+	width: 15%;
+	height: 100px;
+	background-color: #EFEFCE;
+	border: 3px #24334C solid;
+	margin: 0.5%;
+	font-size: 45px;
+	color: #24334C;
+	box-shadow: 0 0 30px #24334C;
+}
+
+.btn1{
+	margin-top: -10%;
+}
+
+.bloc{
+	margin-top: 3%
+}
+
+
+h1{
+	text-align: center
+}
+
+.defaite, .victoire{
+	font-size: 25px;
+	padding: 1%;
+	width: 28%;
+	margin-right: 25%;
+	margin-left: 1%;
+	margin-bottom: 0.1%;
+	text-align: left
+}
+
+.victoire{
+	margin-top: 10%;
+
+}
