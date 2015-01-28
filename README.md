@@ -1,0 +1,1 @@
+# Jquery-test-variable
